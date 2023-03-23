@@ -1,5 +1,5 @@
 # Drug-discovey
-In this section, I'm going two explain two possible ways to extract the different descriptors of a molecule.
+In this section, I'm going two explain two possible ways to extract the different descriptors of a list of molecule.
 
 - In the first part, you will find a simple code that I wrote in google collab. This code will tell you the Lipinski parameters of your component.
 - In the second part, I wrote a python code using a chrome driver to extract more descriptors. This code will import your SMILEs list to ADMET2 and download the result as a CSV file.
