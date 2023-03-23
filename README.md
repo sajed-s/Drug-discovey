@@ -56,7 +56,7 @@ search=list(df1.smiles)
 options = Options()
 driver=webdriver.Chrome(options=options)
 ```
--Add the website link
+- Adding the website link
 
 `driver.get("https://admetmesh.scbdd.com/service/screening/index")`
 
